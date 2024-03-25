@@ -19,6 +19,6 @@ class BmiCalculator:
 
 bmi1 = BmiCalculator(70, 1.75)
 bmi2 = BmiCalculator(65, 1.7)
-bmi3 = BmiCalculator(70, 1.7)
+bmi3 = BmiCalculator(70, 1.75)
 print(bmi1.is_equal(bmi2))
 print(bmi1.is_equal(bmi3))
